@@ -1,5 +1,5 @@
-# Palette for Twitter 2 클로즈베타
-## 08027s onRestart 버그수정 및 패치내역
+## Palette for Twitter 2 클로즈베타
+### 08027s onRestart 버그수정 및 패치내역
 
 ##신규 기능 구현
 * 앱 잠금, 계정잠금
