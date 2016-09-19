@@ -1,4 +1,4 @@
-###PPalette for Twitter 2 오픈베타
+###Palette for Twitter 2 오픈베타
 ####2차 업데이트  Maple Days 버그수정 및 패치내역
 
 ####신규 기능
