@@ -1,5 +1,5 @@
 ###Palette for Twitter 2
-####오픈베타 3차 업데이트 :: Collection of Dream
+####오픈베타 3차 업데이트 :: Collection of Dream 버그수정 및 패치내역
 
 ####신규 기능
 * (실험실) 트윗 쓰기 버튼 숨기기 기능 (#427)
